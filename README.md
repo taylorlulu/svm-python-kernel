@@ -11,7 +11,7 @@ If you use the svm_qp and svm_sklearn code, please input data through mouse, rig
 The program will run on their own.
 It should be noted that the svm_original_space may have some problems to solve linearly inseparable problems.
 
-Some results are shown below:
+Some results are shown below:\n
 ![Linear dual space](https://user-images.githubusercontent.com/49311079/195758898-8ff8b3a7-8559-4e3a-9e7c-07e78cbb1655.png)
 ![Linear dual space曲线分割](https://user-images.githubusercontent.com/49311079/195758910-cb1dd085-5128-49af-9dba-2bafcdddaf94.png)
 ![Linear dual space直线分割](https://user-images.githubusercontent.com/49311079/195758916-29c60bdc-72ba-4822-8bb8-f7605df91e96.png)
